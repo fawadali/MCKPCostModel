@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <stage id="1">
+   	<variant>BTO-2</variant>
+      <exetime>191.98</exetime>
+      <cost>0.4</cost>
+   </stage>
+   <stage id="1">
+   	<variant>BTO-4</variant>
+      <exetime>125.51</exetime>
+      <cost>0.8</cost>
+   </stage>
+   <stage id="1">
+   	<variant>BTO-8</variant>
+      <exetime>91.85</exetime>
+      <cost>1.6</cost>
+   </stage>
+   <stage id="1">
+   	<variant>BTO-10</variant>
+      <exetime>84.02</exetime>
+      <cost>2.0</cost>
+   </stage>
+   <stage id="1">
+   	<variant>OPTO-2</variant>
+      <exetime>175.39</exetime>
+      <cost>0.4</cost>
+   </stage>
+   <stage id="1">
+   	<variant>OPTO-4</variant>
+      <exetime>115.36</exetime>
+      <cost>0.8</cost>
+   </stage>
+   <stage id="1">
+   	<variant>OPTO-8</variant>
+      <exetime>94.82</exetime>
+      <cost>1.6</cost>
+   </stage>
+   <stage id="1">
+   	<variant>OPTO-10</variant>
+      <exetime>92.80</exetime>
+      <cost>2.0</cost>
+   </stage> 
+   <stage id="2">
+   	<variant>BK-2</variant>
+      <exetime>753.39</exetime>
+      <cost>0.4</cost>
+   </stage>
+   <stage id="2">
+   	<variant>BK-4</variant>
+      <exetime>371.08</exetime>
+      <cost>0.8</cost>
+   </stage>
+   <stage id="2">
+   	<variant>BK-8</variant>
+      <exetime>198.70</exetime>
+      <cost>1.6</cost>
+   </stage>
+   <stage id="2">
+   	<variant>BK-10</variant>
+      <exetime>164.57</exetime>
+      <cost>2.0</cost>
+   </stage>
+   <stage id="2">
+   	<variant>PK-2</variant>
+      <exetime>682.51</exetime>
+      <cost>0.4</cost>
+   </stage>
+   <stage id="2">
+   	<variant>PK-4</variant>
+      <exetime>330.47</exetime>
+      <cost>0.8</cost>
+   </stage>
+   <stage id="2">
+   	<variant>PK-8</variant>
+      <exetime>178.88</exetime>
+      <cost>1.6</cost>
+   </stage>
+   <stage id="2">
+   	<variant>PK-10</variant>
+      <exetime>145.01</exetime>
+      <cost>2.0</cost>
+   </stage>
+   <stage id="3">
+   	<variant>BRJ-2</variant>
+      <exetime>255.35</exetime>
+      <cost>0.4</cost>
+   </stage>
+    <stage id="3">
+   	<variant>BRJ-4</variant>
+      <exetime>162.53</exetime>
+      <cost>0.8</cost>
+   </stage>
+    <stage id="3">
+   	<variant>BRJ-8</variant>
+      <exetime>107.28</exetime>
+      <cost>1.6</cost>
+   </stage>
+    <stage id="3">
+   	<variant>BRJ-10</variant>
+      <exetime>101.54</exetime>
+      <cost>2.0</cost>
+   </stage>
+   <stage id="3">
+   	<variant>OPRJ-2</variant>
+      <exetime>97.11</exetime>
+      <cost>0.4</cost>
+   </stage>
+     <stage id="3">
+   	<variant>OPRJ-4</variant>
+      <exetime>74.32</exetime>
+      <cost>0.8</cost>
+   </stage>
+     <stage id="3">
+   	<variant>OPRJ-8</variant>
+      <exetime>58.35</exetime>
+      <cost>1.6</cost>
+   </stage>
+     <stage id="3">
+   	<variant>OPRJ-10</variant>
+      <exetime>58.11</exetime>
+      <cost>2.0</cost>
+   </stage>
+ </root>

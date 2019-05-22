@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <vm id="28">
+      <vmtype>m3.xlarge</vmtype>
+      <cost>0.070</cost>
+      <mappers>6</mappers>
+   </vm>
+   <vm id="29">
+      <vmtype>m3.2xlarge</vmtype>
+      <cost>0.140</cost>
+      <mappers>12</mappers>
+   </vm>
+   <vm id="30">
+      <vmtype>m1.small</vmtype>
+      <cost>0.011</cost>
+      <mappers>2</mappers>
+   </vm>
+   <vm id="31">
+      <vmtype>m1.medium</vmtype>
+      <cost>0.022</cost>
+      <mappers>2</mappers>
+   </vm>
+   <vm id="1">
+      <vmtype>m1.large</vmtype>
+      <cost>0.044</cost>
+      <mappers>3</mappers>
+   </vm>
+   <vm id="2">
+      <vmtype>m1.xlarge</vmtype>
+      <cost>0.088</cost>
+      <mappers>8</mappers>
+   </vm>
+   <vm id="3">
+      <vmtype>c3.xlarge</vmtype>
+      <cost>0.053</cost>
+      <mappers>3</mappers>
+   </vm>
+   <vm id="4">
+      <vmtype>c3.2xlarge</vmtype>
+      <cost>0.105</cost>
+      <mappers>6</mappers>
+   </vm>
+   <vm id="5"> 
+      <vmtype>c3.4xlarge</vmtype>
+      <cost>0.210</cost>
+      <mappers>12</mappers>
+   </vm>
+   <vm id="6">
+      <vmtype>c3.8xlarge</vmtype>
+      <cost>0.270</cost>
+      <mappers>24</mappers>
+   </vm>
+   <vm id="7">
+      <vmtype>c1.medium</vmtype>
+      <cost>0.030</cost>
+      <mappers>2</mappers>
+   </vm>
+   <vm id="8">
+      <vmtype>c1.xlarge</vmtype>
+      <cost>0.120</cost>
+      <mappers>7</mappers>
+   </vm>
+   <vm id="9">
+      <vmtype>cc2.8xlarge</vmtype>
+      <cost>0.270</cost>
+      <mappers>24</mappers>
+   </vm>
+   <vm id="10">
+      <vmtype>g2.2xlarge</vmtype>
+      <cost>0.200</cost>
+      <mappers>8</mappers>
+   </vm>
+   <vm id="11">
+      <vmtype>r3.xlarge</vmtype>
+      <cost>0.090</cost>
+      <mappers>6</mappers>
+   </vm>
+   <vm id="12">
+      <vmtype>r3.2xlarge</vmtype>
+      <cost>0.180</cost>
+      <mappers>12</mappers>
+   </vm>
+   <vm id="13">
+      <vmtype>r3.4xlarge</vmtype>
+      <cost>0.270</cost>
+      <mappers>12</mappers>
+   </vm>
+   <vm id="14">
+      <vmtype>r3.8xlarge</vmtype>
+      <cost>0.270</cost>
+      <mappers>24</mappers>
+   </vm>
+   <vm id="15">
+      <vmtype>m2.xlarge</vmtype>
+      <cost>0.062</cost>
+      <mappers>3</mappers>
+   </vm>
+   <vm id="16">
+      <vmtype>m2.2xlarge</vmtype>
+      <cost>0.123</cost>
+      <mappers>6</mappers>
+   </vm>
+   <vm id="17">
+      <vmtype>m2.4xlarge</vmtype>
+      <cost>0.246</cost>
+      <mappers>14</mappers>
+   </vm>
+   <vm id="18">
+      <vmtype>i2.xlarge</vmtype>
+      <cost>0.213</cost>
+      <mappers>6</mappers>
+   </vm>
+   <vm id="19">
+      <vmtype>i2.2xlarge</vmtype>
+      <cost>0.270</cost>
+      <mappers>12</mappers>
+   </vm>
+   <vm id="20">
+      <vmtype>i2.4xlarge</vmtype>
+      <cost>0.2 70</cost>
+      <mappers>24</mappers>
+   </vm>
+   <vm id="21">
+      <vmtype>i2.8xlarge</vmtype>
+      <cost>0.270</cost>
+      <mappers>48</mappers>
+   </vm>
+   <vm id="22">
+      <vmtype>d2.xlarge</vmtype>
+      <cost>0.173</cost>
+      <mappers>6</mappers>
+   </vm>
+   <vm id="23">
+      <vmtype>d2.2xlarge</vmtype>
+      <cost>0.270</cost>
+      <mappers>12</mappers>
+   </vm>
+   <vm id="24">
+      <vmtype>d2.4xlarge</vmtype>
+      <cost>0.270</cost>
+      <mappers>24</mappers>
+   </vm>
+   <vm id="25">
+      <vmtype>d2.8xlarge</vmtype>
+      <cost>0.270</cost>
+      <mappers>54</mappers>
+   </vm>
+   <vm id="26">
+      <vmtype>hi1.4xlarge</vmtype>
+      <cost>0.270</cost>
+      <mappers>24</mappers>
+   </vm>
+   <vm id="27">
+      <vmtype>hs1.8xlarge</vmtype>
+      <cost>0.270</cost>
+      <mappers>24</mappers>
+   </vm>
+</root>
